@@ -4,7 +4,7 @@ import preprocessor, helper
 import seaborn as sns
 
 
-st.title("WhatsApp chat Analyzer")
+st.title("Criminal Chat Detector")
 st.sidebar.title("Analyze Your Chats")
 
 uploaded_file = st.sidebar.file_uploader("Choose a file")
